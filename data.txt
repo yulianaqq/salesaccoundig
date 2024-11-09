@@ -1,0 +1,38 @@
+3
+John Doe
+Sales Manager
+123-456-7890
+john.doe@example.com
+Jane Smith
+Sales Assistant
+987-654-3210
+jane.smith@example.com
+fnjfn
+vfjvmf
+48484
+39393
+3
+Toyota
+2020
+Camry
+20000
+25000
+Honda
+2021
+Civic9
+18000
+23000
+Ford
+2019
+Mustang
+26000
+30000
+2
+John Doe
+Camry
+2023-11-01
+24500
+Jane Smith
+Civic
+2023-11-03
+22500
